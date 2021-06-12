@@ -26,6 +26,7 @@ This repository contains all the source codes for <a href="https://youtube.com/p
 22. <a href="https://youtu.be/1j1XRrGuKNE">One Hot Encoding</a>
 23. <a href="https://youtu.be/gp6lAJ8iFxA">Frequent Count Imputation</a>
 24. <a href="https://youtu.be/i_chKWAkERM">K Nearest Neighbors - Conceptualization and Implementation</a>
+25. <a href="https://youtu.be/FvIjv9-Xx1o">K Nearest Neighbors - Conceptualization and Implementation</a>
 
 <hr>
 If you like my content, do subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel.
