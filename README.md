@@ -28,6 +28,7 @@ This repository contains all the source codes for <a href="https://youtube.com/p
 24. <a href="https://youtu.be/i_chKWAkERM">K Nearest Neighbors - Conceptualization and Implementation</a>
 25. <a href="https://youtu.be/FvIjv9-Xx1o">Type I and Type II Error</a>
 26. <a href="https://youtu.be/wXcJJ9cz2i4">Sensitivity and Specificity with FPR</a>
+27. <a href="https://youtu.be/QwDJaq6yCyA">ROC Curve and AUC</a>
 
 <hr>
 If you like my content, do subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel.
