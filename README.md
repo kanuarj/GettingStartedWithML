@@ -30,6 +30,7 @@ This repository contains all the source codes for <a href="https://youtube.com/p
 26. <a href="https://youtu.be/wXcJJ9cz2i4">Sensitivity and Specificity with FPR</a>
 27. <a href="https://youtu.be/QwDJaq6yCyA">ROC Curve and AUC</a>
 28. <a href="https://youtu.be/0gQ5JfWad-s">Normalization</a>
+29. <a href="https://youtu.be/j6WAPeAwSkA">Standardization</a>
 
 <hr>
 If you like my content, do subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel.
