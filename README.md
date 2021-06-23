@@ -33,6 +33,7 @@ This repository contains all the source codes for <a href="https://youtube.com/p
 29. <a href="https://youtu.be/j6WAPeAwSkA">Standardization</a>
 30. <a href="https://youtu.be/z4QhPjHz5kQ">Decision Trees</a>
 31. <a href="https://youtu.be/L6p64tLjbxg">Entropy</a>
+32. <a href="https://youtu.be/Us70BzMt2jA">Information Gain</a>
 
 <hr>
 If you like my content, do subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel.
