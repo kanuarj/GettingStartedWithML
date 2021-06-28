@@ -37,6 +37,7 @@ This repository contains all the source codes for <a href="https://youtube.com/p
 33. <a href="https://youtu.be/ifiriJlpDi0">Gini Impurity</a>
 34. <a href="https://youtu.be/cjNGQPgtYbw">Random Forest with Bias Variance Concepts</a>
 35. <a href="https://youtu.be/mnVWDXo93P4">Cross Validation Practical Implementation</a>
+36. <a href="https://youtu.be/CvtfBeUCDn0">Grid Search CV</a>
 
 <hr>
 If you like my content, do subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel.
