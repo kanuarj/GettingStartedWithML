@@ -39,6 +39,7 @@ This repository contains all the source codes for <a href="https://youtube.com/p
 35. <a href="https://youtu.be/mnVWDXo93P4">Cross Validation Practical Implementation</a>
 36. <a href="https://youtu.be/CvtfBeUCDn0">Grid Search CV</a>
 37. <a href="https://youtu.be/xKSMmNMr9Lo">AdaBoost</a>
+38. <a href="https://youtu.be/km4l97fyiMY">Support Vector Machines</a>
 
 <hr>
 If you like my content, do subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel.
